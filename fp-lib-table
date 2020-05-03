@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "EDO RAM Stick Recreated")(type KiCad)(uri "${KIPRJMOD}/EDO RAM Stick Recreated.pretty")(options "")(descr ""))
+)
