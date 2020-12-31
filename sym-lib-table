@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name EDO_RAM_LIBS)(type Legacy)(uri ${KIPRJMOD}/EDO_RAM_LIBS.lib)(options "")(descr ""))
+  (lib (name EDO-RAM-Stick-Recreated-rescue)(type Legacy)(uri "${KIPRJMOD}/EDO RAM Stick Recreated-rescue.lib")(options "")(descr ""))
 )
